@@ -1,0 +1,12 @@
+{
+  "name": "bsonjson.js",
+  "version": "0.0.1",
+  "description": "BSON JSON Utils for Javascript",
+  "main": "index.js",
+  "repository": "https://github.com/whardier/bsonjson.js",
+  "author": "Shane R. Spencer <305301+whardier@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^4.3.5"
+  }
+}
